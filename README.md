@@ -1,2 +1,2 @@
 # Playground_xgboost
-Building a baseline with xgboost using titanic data
+Playing around with xgboost in 'tutorial' competitions such as Kaggle's Titanic Challenge.
